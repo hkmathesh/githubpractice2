@@ -1,1 +1,1 @@
-created test2.txt file in gitbranch2
+updated test2.txt file in gitbranch2
